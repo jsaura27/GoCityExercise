@@ -32,6 +32,8 @@ So I created in the Commands.java class all the commands requested by the users:
 Lastly, after making sure the commands worked as intended, Jaime from the future had to tackle the frontend again.
 Which I tried to understand how Spark worked with Java......and kinda failed, so I have created the UI.class,
 where it shows and executes the commands depending on the routes, but I didn't have time to make a functional FE.
+So to run the project you just need to run the class UI.
+
 
 2.-Things I would like to improve
 
